@@ -11,7 +11,7 @@ Repository ini merupakan tugas **UAS Pemrograman API** untuk membangun aplikasi 
 ## 👥 Informasi Kelompok
 
 **Kelompok 6 - Kelas 2024E**
-Program Studi D4 Teknik Informatika  
+Program Studi D4 Manajemen Informatika  
 Universitas Negeri Surabaya
 
 | Nama Anggota | NIM | Peran / Kontribusi |
